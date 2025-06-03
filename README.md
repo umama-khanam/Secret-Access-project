@@ -30,11 +30,14 @@ Open your browser to go to:
 -http://localhost:3000
 ```
 
-🔧 How It Works
+## 🔧 How It Works
 
 -When a user opens localhost:3000, a password input form appears.
+
 -If the entered password matches the one defined in the backend, the user is redirected to a secrets page.
+
 -That secrets page displays content (a list of passwords) stored in secret.html.
+
 -If the password is incorrect, the form reloads without access.
 
 ## 🧰Built With
