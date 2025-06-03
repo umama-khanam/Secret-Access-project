@@ -1,7 +1,7 @@
 # Secret-Access-project
 # 🔐 Secret Access Project
 
-This is a simple password-protected Node.js application built using Express.js and EJS templating. When the app is running on `localhost:3000`, users are shown an interface to enter a password. If the correct password is entered, a list of secret passwords is revealed. If the password is incorrect, the homepage reloads.
+This is a simple password-protected Node.js application built using  Node.js ,Express.js and EJS templating. When the app is running on `localhost:3000`, users are shown an interface to enter a password. If the correct password is entered, a list of secrets is revealed. If the password is incorrect, the homepage reloads.
 
 ## 🚀 Features
 
