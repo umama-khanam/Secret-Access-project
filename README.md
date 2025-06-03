@@ -40,6 +40,8 @@ Open your browser to go to:
 
 -If the password is incorrect, the form reloads without access.
 
+-As it is a public project i need to provide you what's my password is : it is "ILoveProgramming" (case sensitive)
+
 ## 🧰Built With
 Node.js
 
